@@ -1,7 +1,5 @@
-# Digit Recognition
+# Handwritten-Digit Recognition
 
-## Overview
-This code snippet provides functionality for digit recognition using image processing techniques and machine learning. It includes methods for preprocessing images, extracting digits, and utilizing a trained model for classification.
 
 ## Requirements
 Ensure you have the following libraries installed:
