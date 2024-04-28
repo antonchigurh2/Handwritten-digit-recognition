@@ -1,23 +1,29 @@
-# Handwritten-digit-recognition
-Requirements
+# Digit Recognition
+
+## Overview
+This code snippet provides functionality for digit recognition using image processing techniques and machine learning. It includes methods for preprocessing images, extracting digits, and utilizing a trained model for classification.
+
+## Requirements
 Ensure you have the following libraries installed:
+- PIL (Python Imaging Library)
+- numpy
+- cv2 (OpenCV)
+- scikit-image
+- matplotlib
+- scikit-learn
+- TensorFlow (and its dependencies)
+- Keras
 
-PIL (Python Imaging Library)
-numpy
-cv2 (OpenCV)
-scikit-image
-matplotlib
-scikit-learn
-TensorFlow (and its dependencies)
-Keras
 You can install these libraries using pip:
+```bash
 pip install pillow numpy opencv-python scikit-image matplotlib scikit-learn tensorflow keras
+-
 
-# Running the Code
-# Google Colab
+## Running the Code
+## Google Colab
 If running on Google Colab, simply upload the code and data files to your Colab environment and execute the notebook cells.
 
-# Local Environment
+## Local Environment
 To run this code locally:
 
 Set up a Python environment with the required libraries installed.
